@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  test
+//  UIView
 //
-//  Created by YILDIRAY HAZIR on 7/7/18.
+//  Created by YILDIRAY HAZIR on 8/2/18.
 //  Copyright © 2018 YildirayHazir. All rights reserved.
 //
 

@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  test
+//  Test
 //
-//  Created by YILDIRAY HAZIR on 7/7/18.
+//  Created by YILDIRAY HAZIR on 8/15/18.
 //  Copyright © 2018 YildirayHazir. All rights reserved.
 //
 
@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        print("Yildiray Hazir")
     }
 
     override func didReceiveMemoryWarning() {
